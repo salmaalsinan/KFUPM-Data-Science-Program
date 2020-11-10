@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Student>Douglas</Student>
+    <Exam1>39</Exam1>
+    <Exam2>48</Exam2>
+    <Total>87</Total>
+  </row>
+  <row>
+    <Student>Thomas</Student>
+    <Exam1>31</Exam1>
+    <Exam2>43</Exam2>
+    <Total>74</Total>
+  </row>
+  <row>
+    <Student>Maria</Student>
+    <Exam1>50</Exam1>
+    <Exam2>50</Exam2>
+    <Total>100</Total>
+  </row>
+  <row>
+    <Student>Jerry</Student>
+    <Exam1>41</Exam1>
+    <Exam2>43</Exam2>
+    <Total>84</Total>
+  </row>
+  <row>
+    <Student>Larry</Student>
+    <Exam1>47</Exam1>
+    <Exam2>41</Exam2>
+    <Total>88</Total>
+  </row>
+  <row>
+    <Student>Dennis</Student>
+    <Exam1>31</Exam1>
+    <Exam2>48</Exam2>
+    <Total>79</Total>
+  </row>
+  <row>
+    <Student>Ruby</Student>
+    <Exam1>31</Exam1>
+    <Exam2>39</Exam2>
+    <Total>70</Total>
+  </row>
+</root>

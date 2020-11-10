@@ -1,0 +1,44 @@
+[
+ {
+   "Student": "Douglas",
+   "Exam1": 39,
+   "Exam2": 48,
+   "Total": 87
+ },
+ {
+   "Student": "Thomas",
+   "Exam1": 31,
+   "Exam2": 43,
+   "Total": 74
+ },
+ {
+   "Student": "Maria",
+   "Exam1": 50,
+   "Exam2": 50,
+   "Total": 100
+ },
+ {
+   "Student": "Jerry",
+   "Exam1": 41,
+   "Exam2": 43,
+   "Total": 84
+ },
+ {
+   "Student": "Larry",
+   "Exam1": 47,
+   "Exam2": 41,
+   "Total": 88
+ },
+ {
+   "Student": "Dennis",
+   "Exam1": 31,
+   "Exam2": 48,
+   "Total": 79
+ },
+ {
+   "Student": "Ruby",
+   "Exam1": 31,
+   "Exam2": 39,
+   "Total": 70
+ }
+]
